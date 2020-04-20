@@ -7,7 +7,7 @@ $c = [
     
   ];
 var_dump ($c);
-echo $c [0];
+echo $c [4];
 
 ?>
 
